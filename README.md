@@ -1,2 +1,1 @@
-# videojuego
-triple t
+SFML 2.6.1 y C++17
